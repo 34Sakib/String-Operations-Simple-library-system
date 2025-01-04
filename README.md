@@ -6,9 +6,10 @@ This PHP script processes an array of strings by counting vowels, reversing each
 
 Features:
 
-Counts vowels using regular expressions.
-Reverses each string.
-Outputs original string, vowel count, and reversed string.
+- Counts vowels using regular expressions.
+- Reverses each string.
+- Outputs original string, vowel count, and reversed string.
+
 Usage:
 Run the script in any PHP environment to process a predefined array of strings.
 
